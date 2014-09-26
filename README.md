@@ -28,7 +28,7 @@ out/
     src|bar|bar.rm
 ```
 ### Purpose
-Common git providers (github, bitbucket) do not support tree structures for a project's wiki. This task allows a project to define its wiki in a tree structure and output its flattened version to the wiki directory. It can be combined with the (grunt-markdown-sidebar)[https://github.com/aam229/grunt-markdown-sidebar] task to generate a sidebar for your wiki based on the flattened structure. It can also be combined with (jsdox)[http://jsdox.org/] to flatten the generated documentation.
+Common git providers (github, bitbucket) do not support tree structures for a project's wiki. This task allows a project to define its wiki in a tree structure and output its flattened version to the wiki directory. It can be combined with the [grunt-markdown-sidebar](https://github.com/aam229/grunt-markdown-sidebar) task to generate a sidebar for your wiki based on the flattened structure. It can also be combined with [jsdox](http://jsdox.org/) to flatten the generated documentation.
 
 ### Usage
 Install using npm: 
