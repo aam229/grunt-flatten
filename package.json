@@ -2,7 +2,8 @@
     "name": "grunt-flatten",
     "version": "0.0.1",
     "description": "",
-    "dependencies": {},
+    "dependencies": {
+    },
     "devDependencies": {},
     "author": "",
     "license": "ISC"
